@@ -1,2 +1,5 @@
 # HTML_And_CSS_Template
-HTML And CSS Design 
+
+One of the templates I designed while learning for practice
+
+Demo
